@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepjsr](https://github.com/deepjsr)
 
-- 💬 Ask me about **Angular,NODE,Java Script**
+- 💬 Ask me about **Angular,NODE,Java Script,Java,HTML,CSS,SQL**
 
 - 📫 How to reach me **sarma.deepjyoti481@gmail.com**
 
