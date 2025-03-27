@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep Jyoti Sarma</h1>
 <h3 align="center">A passionate frontend developer from India trying to learn backend as well</h3>
 
-- 🔭 I’m currently working on [CRUD using nodejs](https://github.com/deepjsr/NodeJS-Express-MongoDB-.git)
+- 🔭 I’m currently working on [E-commerse site](https://github.com/deepjsr/i-shop-full.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepjsr](https://github.com/deepjsr)
 
