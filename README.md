@@ -46,7 +46,7 @@ Check out my complete portfolio of projects here: **[github.com/deepjsr](https:/
 
 ### 🛠️ Languages and Tools
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 12px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin-right: 12px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="40" height="40" style="margin-right: 12px;" />
