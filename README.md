@@ -128,18 +128,20 @@ Explore all my work here → **[github.com/deepjsr](https://github.com/deepjsr)*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepjsr&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepjsr&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepjsr&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepjsr&theme=radical&hide_border=true&cache_seconds=1800" alt="Streak Stats" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepjsr&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=deepjsr&theme=radical&column=3&margin-w=15" alt="Trophies" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepjsr&theme=radical&layout=compact&hide_border=true&cache_seconds=1800&langs_count=8" alt="Top Languages" width="48%" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=deepjsr&theme=radical&column=3&margin-w=15&no-frame=true" alt="Trophies" width="48%" />
 </div>
 
 ---
