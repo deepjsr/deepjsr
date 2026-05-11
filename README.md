@@ -49,8 +49,12 @@ Check out all my projects here: **[github.com/deepjsr](https://github.com/deepjs
 
 ### 🛠️ Languages and Tools
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" style="margin: 8px;" />
+  <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://komarev.com/ghpvc/?username=deepjsr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/deepjsr">
+    <img src="https://img.shields.io/github/followers/deepjsr?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" style="margin: 8px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="42" height="42" style="margin: 8px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="42" height="42" style="margin: 8px;" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="42" height="42" style="margin: 8px;" />
@@ -64,6 +68,8 @@ Check out all my projects here: **[github.com/deepjsr](https://github.com/deepjs
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42" style="margin: 8px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" style="margin: 8px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" style="margin: 8px;" />
+</div>
+  
 </div>
 
 ---
